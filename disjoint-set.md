@@ -38,6 +38,7 @@
 	}
 
 ##Note
+两种优化方法：
 ####按轶合并
 	function Market(x)
 		x.parent := x
