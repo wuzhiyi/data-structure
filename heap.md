@@ -1,10 +1,9 @@
 ####堆
-  #define PARENT(i)   (i/2)
-  #define LEFT(i)     (i*2)
-  #define RIGHT(i)    (i*2+1)
-  #define NOTNUSEDATA -65536
-
-  void adjust_max_heap_recursive(int *datas, int length, int i) {
+    #define PARENT(i)   (i/2)
+    #define LEFT(i)     (i*2)
+    #define RIGHT(i)    (i*2+1)
+    #define NOTNUSEDATA -65536
+    void adjust_max_heap_recursive(int *datas, int length, int i) {
         int left, right, largest;
         int temp;
         left = LEFT(i); //left child
@@ -22,7 +21,6 @@
             adjust_max_heap_recursive(datas, length, largest);
         }
     }
-
     void adjust_max_heap(int *datas, int length, int i)
     {
         int left,right,largest;
@@ -51,15 +49,13 @@
             break;
         }
     }
-
     void build_max_heap(int *datas, int length)
     {
         int i;
         //build max heap from the last parent node
         for (i=length/2; i>0; i--)
             adjust_max_heap(datas,length,i);
-}
-
+    }
     void heap_sort(int *datas, int length)
     {
         int i,temp;
@@ -77,7 +73,6 @@
             adjust_max_heap(datas,i,1);
         }
     }
-
     int main()
     {
         int i;
