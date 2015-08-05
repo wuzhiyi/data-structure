@@ -1,4 +1,7 @@
 ####堆
+
+```c
+    //C
     #define PARENT(i)   (i/2)
     #define LEFT(i)     (i*2)
     #define RIGHT(i)    (i*2+1)
@@ -84,8 +87,12 @@
         printf("\n");
         exit(0);
     }
+```
     
 ####堆排序
+
+```c
+    //C
     #include <stdio.h>
     //array是待调整的堆数组，i是待调整的数组元素的位置，nlength是数组的长度
     //本函数功能是：根据数组array构建大根堆
@@ -141,3 +148,4 @@
         printf("\nok\n");
         return 0;
     }
+```
