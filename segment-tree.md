@@ -3,6 +3,7 @@
 ####节点数据向上更新
 将子节点的值更新到父节点
 
+```c
     /* 对于区间求和 */
     void push_up(int rt) {
         tree[rt] = tree[rt << 1] + tree[rt << 1 | 1];
@@ -11,6 +12,7 @@
     void push_up(int rt) {
         tree[rt] = max(tree[rt << 1], tree[rt << 1 | 1]);
     }
+```c
     
 ####节点懒惰标记下推
 对于区间求和, 原子数组值需要加上lazy标记乘以子树所统计的区间长度。 
