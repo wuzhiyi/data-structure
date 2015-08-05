@@ -20,6 +20,7 @@
 len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间长度, len >> 1 为右子树区间长度。
 
 ```c++
+    //C++
     void push_down(int rt, int len) {
         tree[rt << 1] += lazy[rt] * (len - (len >> 1));
         lazy[rt << 1] += lazy[rt];
@@ -31,6 +32,8 @@ len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间�
     
 对于区间求最大值，子树的值不需要乘以长度，所以不需要传递参数 len
 
+```c++
+    //C++
     void push_down(int rt) {
         tree[rt << 1] += lazy[rt];
         lazy[rt << 1] += lazy[rt];
@@ -38,10 +41,13 @@ len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间�
         lazy[rt << 1 | 1] += lazy[rt];
         lazy[rt] = 0;
     }
+```
     
 ####建树
 新建一棵长度 N 的线段树
 
+```c++
+    //C++
     #define lchild rt << 1, l, m
     #define rchild rt << 1 | 1, m + 1, r
     void build(int rt = 1, int l = 1, int r = N) {
@@ -50,10 +56,13 @@ len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间�
         build(lchild); build(rchild);
         push_up(rt);
     }
+```
     
 ####更新
 单点更新，不需要用到 lazy 标记
 
+```c++
+    //C++
     #define lchild rt << 1, l, m
     #define rchild rt << 1 | 1, m + 1, r
     void update(int p, int delta, int rt = 1, int l = 1, int r = N) {
@@ -66,9 +75,12 @@ len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间�
         else update(p, delta, rchild);
         push_up(rt);
     }
+```
     
 成段更新，需要用到 lazy 标记来提高时间效率
 
+```c++
+    //C++
     #define lchild rt << 1, l, m
     #define rchild rt << 1 | 1, m + 1, r
     void update(int L, int R, int delta, int rt = 1, int l = 1, int r = N) {
@@ -83,9 +95,12 @@ len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间�
         if (R > m)  update(L, R, delta, rchild);
         push_up(rt);
     }
+```
     
 ####区间查询
 
+```c++
+    //C++
     #define lchild rt << 1, l, m
     #define rchild rt << 1 | 1, m + 1, r
     int query(int L, int R, int rt = 1, int l = 1, int r = N) {
@@ -96,3 +111,4 @@ len 为父节点统计的区间长度, 则 len - (len >> 1) 为左子树区间�
         if (R > m)  ret += query(L, R, rchild);
         return ret;
     }
+```
