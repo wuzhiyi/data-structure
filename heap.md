@@ -139,5 +139,5 @@
             printf("%d ",num[i]);
         }
         printf("\nok\n");
-        return 0
+        return 0;
     }
