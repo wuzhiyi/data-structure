@@ -2,6 +2,7 @@
 * Deque - 双端队列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/deque.c))
 * [Disjoint Set](https://github.com/wuzhiyi/data-structure/blob/master/disjoint-set.md) - 并查集
 * [Heap](https://github.com/wuzhiyi/data-structure/blob/master/heap.md) - 堆
+    * [D-ary Heap](https://github.com/wuzhiyi/data-structure/blob/master/d-ary-heap.c)
 * Monge Array - 蒙赫阵列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/monge-array.c))
 * Young Tableau - 杨氏矩阵 ([c](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.c))
 
