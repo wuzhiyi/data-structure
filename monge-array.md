@@ -10,7 +10,7 @@ points have the property that the sum of the upper-left and lower right elements
   and upper-right elements (across the antidiagonal)
   
 ####e.g.
-This matrix is a Monge array:
+This matrix is a Monge array:</br>
 ![img](https://cloud.githubusercontent.com/assets/9131176/9570311/797c74ae-4fba-11e5-9da4-d650d0246257.png)</br>
 For example, take the intersection of rows 2 and 4 with columns 1 and 5.</br>
 The sum of the upper-left and lower right elements is less than or equal to the sum of the lower-left and 
