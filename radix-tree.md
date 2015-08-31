@@ -17,4 +17,12 @@ Linux radix tree 最广泛的用途是用于内存管理，结构 address_space 
 * Find successor: Locates the smallest string greater than a given string, by lexicographic order.
 
 ####e.g.
-![img](https://cloud.githubusercontent.com/assets/9131176/9570806/3466edb6-4fc6-11e5-8b74-39ec67898623.png)
+![img](https://cloud.githubusercontent.com/assets/9131176/9570806/3466edb6-4fc6-11e5-8b74-39ec67898623.png)</br>
+
+1. romane
+2. romanus
+3. romulus
+4. rubens
+5. ruber
+6. rubicon
+7. rubicundus
