@@ -15,3 +15,6 @@ This matrix is a Monge array:</br>
 For example, take the intersection of rows 2 and 4 with columns 1 and 5.</br>
 The sum of the upper-left and lower right elements is less than or equal to the sum of the lower-left and 
 upper-right elements.
+
+####Source Code
+* [c](https://github.com/wuzhiyi/data-structure/blob/master/monge-array.c)
