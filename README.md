@@ -7,8 +7,8 @@
 * [Young Tableau](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.md) - 杨氏矩阵 ([c](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.c))
 
 ## Tree
-* [Binary Indexed Tree](https://github.com/wuzhiyi/data-structure/blob/master/binary-indexed-tree.md) - 树状数组
-* [Interval Tree](https://github.com/wuzhiyi/data-structure/blob/master/interval-tree.md) - 区间树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/interval-tree.cpp))
-* [Radix Tree](https://github.com/wuzhiyi/data-structure/blob/master/radix-tree.md) - 基数树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/radix-tree.cpp))
-* [Segment Tree](https://github.com/wuzhiyi/data-structure/blob/master/segment-tree.md) - 线段树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/segment-tree.cpp))
-* Treap - 树堆 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/treap.cpp))
+* [Binary Indexed Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/binary-indexed-tree.md) - 树状数组
+* [Interval Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/interval-tree.md) - 区间树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/interval-tree.cpp))
+* [Radix Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/radix-tree.md) - 基数树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/radix-tree.cpp))
+* [Segment Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/segment-tree.md) - 线段树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/segment-tree.cpp))
+* Treap - 树堆 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap.cpp))
