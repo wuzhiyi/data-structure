@@ -9,6 +9,6 @@
 ## Tree
 * [Binary Indexed Tree](https://github.com/wuzhiyi/data-structure/blob/master/binary-indexed-tree.md) - 树状数组
 * Interval Tree - 区间树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/interval-tree.cpp))
-* Radix Tree - 基数树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/radix-tree.cpp))
+* [Radix Tree](https://github.com/wuzhiyi/data-structure/blob/master/radix-tree.md) - 基数树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/radix-tree.cpp))
 * [Segment Tree](https://github.com/wuzhiyi/data-structure/blob/master/segment-tree.md) - 线段树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/segment-tree.cpp))
 * Treap - 树堆 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/treap.cpp))
