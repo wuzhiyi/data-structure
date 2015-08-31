@@ -1,7 +1,7 @@
 ##Monge Array
-_wikipedia:_
+_wikipedia:_</br>
 An m-by-n matrix is said to be a __Monge array__, for all _i,j,k,l_ such that</br>
-  1<=_i_<=_k_<=_m_ and 1<=_j_<=l<=_n_</br>
+  1 <= _i_ <= _k_ <= _m_ and 1 <= _j_ <= _l_ <= _n_</br>
 one obtains</br>
   A[_i,j_] + A[_k,l_] <= A[_i,l_] + A[_k,j_]</br>
 So for any two rows and two columns of a Monge array (a 2×2 sub-matrix) the four elements at the intersection 
