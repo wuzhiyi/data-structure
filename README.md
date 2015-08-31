@@ -4,7 +4,7 @@
 * [Heap](https://github.com/wuzhiyi/data-structure/blob/master/heap.md) - 堆
     * [D-ary Heap](https://github.com/wuzhiyi/data-structure/blob/master/d-ary-heap.c)
 * [Monge Array](https://github.com/wuzhiyi/data-structure/blob/master/monge-array.md) - 蒙赫阵列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/monge-array.c))
-* Young Tableau - 杨氏矩阵 ([c](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.c))
+* [Young Tableau](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.md) - 杨氏矩阵 ([c](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.c))
 
 ## Tree
 * [Binary Indexed Tree](https://github.com/wuzhiyi/data-structure/blob/master/binary-indexed-tree.md) - 树状数组
