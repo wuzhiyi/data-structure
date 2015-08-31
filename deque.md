@@ -15,3 +15,6 @@ Major implementations include:
 ###Source Code
 
 * [c](https://github.com/wuzhiyi/data-structure/blob/master/deque.c)
+
+###e.g.
+![img](https://cloud.githubusercontent.com/assets/9131176/9577864/c6261ed8-5017-11e5-95e7-9ccf6193635b.png)</br>
