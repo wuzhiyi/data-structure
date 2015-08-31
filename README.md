@@ -1,5 +1,5 @@
 ## Data Structure
-* Deque - 双端队列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/deque.c))
+* [Deque](https://github.com/wuzhiyi/data-structure/blob/master/deque.md) - 双端队列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/deque.c))
 * [Disjoint Set](https://github.com/wuzhiyi/data-structure/blob/master/disjoint-set.md) - 并查集
 * [Heap](https://github.com/wuzhiyi/data-structure/blob/master/heap.md) - 堆
     * [D-ary Heap](https://github.com/wuzhiyi/data-structure/blob/master/d-ary-heap.c)
