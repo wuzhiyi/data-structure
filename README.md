@@ -1,10 +1,10 @@
 ## Data Structure
-* [Deque](https://github.com/wuzhiyi/data-structure/blob/master/deque.md) - 双端队列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/deque.c))
-* [Disjoint Set](https://github.com/wuzhiyi/data-structure/blob/master/disjoint-set.md) - 并查集
-* [Heap](https://github.com/wuzhiyi/data-structure/blob/master/heap.md) - 堆
-    * [D-ary Heap](https://github.com/wuzhiyi/data-structure/blob/master/d-ary-heap.c)
-* [Monge Array](https://github.com/wuzhiyi/data-structure/blob/master/monge-array.md) - 蒙赫阵列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/monge-array.c))
-* [Young Tableau](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.md) - 杨氏矩阵 ([c](https://github.com/wuzhiyi/data-structure/blob/master/young-tableau.c))
+* [Deque](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/deque.md) - 双端队列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/deque.c))
+* [Disjoint Set](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/disjoint-set.md) - 并查集
+* [Heap](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/heap.md) - 堆
+    * [D-ary Heap](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/d-ary-heap.c)
+* [Monge Array](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/monge-array.md) - 蒙赫阵列 ([c](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/monge-array.c))
+* [Young Tableau](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/young-tableau.md) - 杨氏矩阵 ([c](https://github.com/wuzhiyi/data-structure/blob/master/data-structure/young-tableau.c))
 
 ## Tree
 * [Binary Indexed Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/binary-indexed-tree.md) - 树状数组
