@@ -11,4 +11,4 @@
 * [Interval Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/interval-tree.md) - 区间树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/interval-tree.cpp))
 * [Radix Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/radix-tree.md) - 基数树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/radix-tree.cpp))
 * [Segment Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/segment-tree.md) - 线段树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/segment-tree.cpp))
-* Treap - 树堆 ([cpp-1](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap-1.cpp) [cpp-2](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap-2.cpp))
+* [Treap](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap.md) - 树堆 ([cpp-1](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap-1.cpp) [cpp-2](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap-2.cpp))
