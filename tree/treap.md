@@ -1,5 +1,5 @@
 ##Treap
-###Basic Operations
+##Basic Operations
 * search
 * insert
 * delete
@@ -12,12 +12,12 @@ To insert a new key _x_ into the treap, generate a random priority _y_ for _x_. 
 ####Delete
 To delete a node _x_ from the treap, if _x_ is a leaf of the tree, simply remove it. If _x_ has a single child _z_, remove _x_ from the tree and make _z_ be the child of the parent of _x_ (or make _z_ the root of the tree if _x_ had no parent). Finally, if _x_ has two children, swap its position in the tree with the position of its immediate successor _z_ in the sorted order, resulting in one of the previous cases. In this final case, the swap may violate the heap-ordering property for _z_, so additional rotations may need to be performed to restore this property.</br>
 
-###Bulk Operations
+##Bulk Operations
 * union
 * intersection
 * set difference
 
-###Helper Operations
+##Helper Operations
 * split
 * merge
 
