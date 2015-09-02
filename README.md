@@ -12,3 +12,4 @@
 * [Radix Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/radix-tree.md) - 基数树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/radix-tree.cpp))
 * [Segment Tree](https://github.com/wuzhiyi/data-structure/blob/master/tree/segment-tree.md) - 线段树 ([cpp](https://github.com/wuzhiyi/data-structure/blob/master/tree/segment-tree.cpp))
 * [Treap](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap.md) - 树堆 ([cpp-1](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap-1.cpp) [cpp-2](https://github.com/wuzhiyi/data-structure/blob/master/tree/treap-2.cpp))
+* [Trie](https://github.com/wuzhiyi/data-structure/blob/master/tree/trie.md) - 字典树 ([c-1](https://github.com/wuzhiyi/data-structure/blob/master/tree/trie-1.c), [c-2](https://github.com/wuzhiyi/data-structure/blob/master/tree/trie-2.c))
