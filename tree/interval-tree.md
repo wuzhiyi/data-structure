@@ -35,6 +35,6 @@ The result is a ternary tree with each node storing:
 * [cpp](https://github.com/wuzhiyi/data-structure/blob/master/interval-tree.cpp)
 
 ####e.g
-![img](https://cloud.githubusercontent.com/assets/9131176/9573425/ed2d9c6e-4fee-11e5-9118-9d29c0001a1b.png)</br>
-![img](https://cloud.githubusercontent.com/assets/9131176/8700579/33808868-2b3f-11e5-8277-0dad83c6c5ff.png)</br>
+<div align="center">![img](https://cloud.githubusercontent.com/assets/9131176/9573425/ed2d9c6e-4fee-11e5-9118-9d29c0001a1b.png)</br>
+<div align="center">![img](https://cloud.githubusercontent.com/assets/9131176/8700579/33808868-2b3f-11e5-8277-0dad83c6c5ff.png)</br>
 
